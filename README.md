@@ -49,12 +49,18 @@ I am a passionate **English Instructor** and **Motivational Speaker** dedicated 
 
 ---
 
-### 📊 My GitHub Stats
-
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics</h2>
+<p align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=salmalabanna&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmalabanna&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10"/>
+</p> 
+<p align="center" align="left" >
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=salmalabanna&theme=whatsapp-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salamlabanna&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamlabanna&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmalabanna&theme=tokyonight" />
 </div>
+ <br> 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=salamlabanna&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
